@@ -1,0 +1,22 @@
+{
+  "data": [
+    [
+      "201",
+      "2nd Floor",
+      "occupied",
+      "on"
+    ],
+    [
+      "202",
+      "2nd Floor",
+      "occupied",
+      "off"
+    ],
+    [
+      "203",
+      "2nd Floor",
+      "occupied",
+      "on"
+    ]
+  ]
+}

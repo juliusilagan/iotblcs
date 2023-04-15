@@ -1,0 +1,1 @@
+C:\wamp64\bin\php\php5.6.35\php.exe C:\wamp64\www\iotblcs\build\cron\cron.php

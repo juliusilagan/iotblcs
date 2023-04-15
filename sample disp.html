@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>display lights</title>
+	<script src="jquery.js"></script>
+	<script>
+		$(document).ready(function(){
+			setInterval(function(){
+				$("#mytab").load("getdata.php");	
+			},1000);
+		});
+	</script>
+</head>
+<body>
+<table>
+	<tbody id="mytab">
+		
+	</tbody>
+</table>
+</body>
+</html>
